@@ -1,0 +1,22 @@
+{
+  "name": "fluc-timestamp",
+  "version": "0.0.1",
+  "description": "Microservicio de Marca de Tiempo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.12.4"
+  },
+  "repository": {},
+  "bugs": {},
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT"
+}
